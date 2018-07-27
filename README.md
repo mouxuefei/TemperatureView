@@ -3,4 +3,4 @@
 
 
 效果图如下：
-[](./image/aa.gif)
+![这里写图片描述](./image/aa.gif)
