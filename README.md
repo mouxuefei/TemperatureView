@@ -3,4 +3,4 @@
 
 
 效果图如下：
-[](.image/aa.gif)
+[](./image/aa.gif)
